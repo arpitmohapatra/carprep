@@ -7,8 +7,11 @@ import { Practice } from './pages/Practice';
 import { TestGenerator } from './pages/TestGenerator';
 
 function App() {
+  // Get the base path from the environment
+  const basename = import.meta.env.BASE_URL;
+
   return (
-    <Router>
+    <Router basename={basename}>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
