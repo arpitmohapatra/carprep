@@ -33,7 +33,7 @@ export const Guide: React.FC = () => {
                         {chapter.image && (
                             <div className="relative h-48 overflow-hidden bg-gradient-to-br from-blue-50 to-slate-50">
                                 <img
-                                    src={chapter.image}
+                                    src={`${import.meta.env.BASE_URL}${chapter.image.startsWith('/') ? chapter.image.slice(1) : chapter.image}`}
                                     alt={chapter.title}
                                     className="w-full h-full object-cover"
                                     loading="lazy"
