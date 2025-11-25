@@ -3,12 +3,19 @@ import handbookData from '../data/handbook.json';
 import { ChevronDown, ChevronRight, BookOpen } from 'lucide-react';
 import clsx from 'clsx';
 import { motion, AnimatePresence } from 'framer-motion';
+import { saveProgress } from '../db';
 
 export const Guide: React.FC = () => {
     const [expandedSection, setExpandedSection] = useState<string | null>(null);
 
-    const toggleSection = (id: string) => {
-        setExpandedSection(expandedSection === id ? null : id);
+    const toggleSection = async (id: string) => {
+        const isExpanding = expandedSection !== id;
+        setExpandedSection(isExpanding ? id : null);
+
+        // Save progress when expanding a section (marking it as read)
+        if (isExpanding) {
+            await saveProgress(id);
+        }
     };
 
     return (

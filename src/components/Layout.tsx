@@ -25,7 +25,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
         { path: '/guide', icon: BookOpen, label: 'Study Guide' },
         { path: '/flashcards', icon: Layers, label: 'Flashcards' },
         { path: '/practice', icon: CheckSquare, label: 'Practice Test' },
-        { path: '/test-generator', icon: Shuffle, label: 'Test Generator' },
+        { path: '/test-generator', icon: Shuffle, label: 'Test Me' },
     ];
 
     return (

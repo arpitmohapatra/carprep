@@ -1,20 +1,36 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, Layers, CheckSquare, Trophy, Clock, Star, Shuffle } from 'lucide-react';
-import { getUserName } from '../db';
+import { getUserName, getReadSectionsCount, getAverageAccuracy, getTestsCompletedCount } from '../db';
+
+const TOTAL_SECTIONS = 51; // Total sections in the handbook
 
 export const Home: React.FC = () => {
     const [userName, setUserName] = useState<string>('');
+    const [readPercentage, setReadPercentage] = useState<number>(0);
+    const [accuracy, setAccuracy] = useState<number>(0);
+    const [testsCompleted, setTestsCompleted] = useState<number>(0);
 
     useEffect(() => {
-        loadUserName();
+        loadUserData();
     }, []);
 
-    const loadUserName = async () => {
+    const loadUserData = async () => {
         const name = await getUserName();
         if (name) {
             setUserName(name);
         }
+
+        // Load statistics
+        const readCount = await getReadSectionsCount();
+        const readPct = Math.round((readCount / TOTAL_SECTIONS) * 100);
+        setReadPercentage(readPct);
+
+        const avgAccuracy = await getAverageAccuracy();
+        setAccuracy(avgAccuracy);
+
+        const testsCount = await getTestsCompletedCount();
+        setTestsCompleted(testsCount);
     };
 
     return (
@@ -40,7 +56,7 @@ export const Home: React.FC = () => {
                     </div>
                     <div>
                         <p className="text-xs text-slate-500 font-medium">Read</p>
-                        <p className="text-lg font-bold text-slate-900">12%</p>
+                        <p className="text-lg font-bold text-slate-900">{readPercentage}%</p>
                     </div>
                 </div>
                 <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex items-center space-x-3">
@@ -48,8 +64,8 @@ export const Home: React.FC = () => {
                         <Layers size={20} />
                     </div>
                     <div>
-                        <p className="text-xs text-slate-500 font-medium">Cards</p>
-                        <p className="text-lg font-bold text-slate-900">5/20</p>
+                        <p className="text-xs text-slate-500 font-medium">Tests</p>
+                        <p className="text-lg font-bold text-slate-900">{testsCompleted}</p>
                     </div>
                 </div>
                 <div className="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex items-center space-x-3 col-span-2 md:col-span-1">
@@ -58,7 +74,7 @@ export const Home: React.FC = () => {
                     </div>
                     <div>
                         <p className="text-xs text-slate-500 font-medium">Accuracy</p>
-                        <p className="text-lg font-bold text-slate-900">85%</p>
+                        <p className="text-lg font-bold text-slate-900">{accuracy}%</p>
                     </div>
                 </div>
             </div>
@@ -118,7 +134,7 @@ export const Home: React.FC = () => {
                                 <Shuffle size={24} />
                             </div>
                             <div>
-                                <h3 className="text-lg font-bold">Test Generator</h3>
+                                <h3 className="text-lg font-bold">Test Me</h3>
                                 <p className="text-orange-100 text-sm">30 random questions</p>
                             </div>
                         </div>

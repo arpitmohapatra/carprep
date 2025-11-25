@@ -106,3 +106,24 @@ export const saveUserName = async (name: string) => {
     await saveUserSetting('userName', name);
 };
 
+export const getReadSectionsCount = async (): Promise<number> => {
+    const progress = await getProgress();
+    return progress.length;
+};
+
+export const getAverageAccuracy = async (): Promise<number> => {
+    const results = await getQuizResults();
+    if (results.length === 0) return 0;
+
+    const totalScore = results.reduce((sum, result) => sum + result.score, 0);
+    const totalQuestions = results.reduce((sum, result) => sum + result.totalQuestions, 0);
+
+    if (totalQuestions === 0) return 0;
+    return Math.round((totalScore / totalQuestions) * 100);
+};
+
+export const getTestsCompletedCount = async (): Promise<number> => {
+    const results = await getQuizResults();
+    return results.length;
+};
+
