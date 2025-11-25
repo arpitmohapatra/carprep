@@ -1,0 +1,306 @@
+[
+    {
+        "id": "getting-licence",
+        "title": "1. Getting Your Driver's Licence",
+        "image": "/images/chapter-1.png",
+        "sections": [
+            {
+                "id": "requirements",
+                "title": "Requirements for driving in Ontario",
+                "content": "Ontario residents must be at least 16 years old and have a valid Ontario driver's licence. Visitors must be at least 16 and have a valid licence from their home jurisdiction. If visiting for more than 3 months, an international driver's permit is required.\\n\\nYou must carry your licence with you whenever you drive. Police officers can ask to see your licence at any time. Never lend your licence to anyone - it's illegal and you could face serious penalties."
+            },
+            {
+                "id": "graduated-licensing",
+                "title": "Graduated Licensing System",
+                "content": "Ontario uses a graduated licensing system with three levels: G1, G2, and full G licence. This system gives new drivers time to build skills gradually in lower-risk environments before getting full driving privileges.\\n\\nThe system has been proven to reduce collisions among new drivers by up to 31%. Each level has specific requirements and restrictions designed to keep you and others safe while you learn."
+            },
+            {
+                "id": "g1-licence",
+                "title": "Level One (Class G1)",
+                "content": "Level One lasts 12 months (8 months if you complete an approved driver education course). During this time, you must follow these rules:\\n\\n• Zero blood alcohol level - no drinking and driving at all\\n• Must have an accompanying driver with a valid G licence and at least 4 years of driving experience, seated in the front passenger seat with blood alcohol level under 0.05%\\n• All passengers must wear seatbelts\\n• No driving on 400-series highways or high-speed expressways (unless with a licensed driving instructor)\\n• No driving between midnight and 5 a.m.\\n\\nBreaking these rules can result in licence suspension and fines."
+            },
+            {
+                "id": "g1-test",
+                "title": "G1 Knowledge Test",
+                "content": "Before taking the G1 knowledge test, study the Official MTO Driver's Handbook thoroughly. The test has two parts: rules of the road and traffic signs. You must pass both parts.\\n\\nBring two pieces of identification (one must show your birth date and signature), money for test fees, and glasses or contact lenses if you need them. If you wear corrective lenses, this will be noted on your licence and you must wear them whenever you drive.\\n\\nThe test is available in multiple languages. You can take the test at any DriveTest centre in Ontario."
+            },
+            {
+                "id": "g2-licence",
+                "title": "Level Two (Class G2)",
+                "content": "After holding your G1 for 12 months (or 8 with an approved course), you can take the G2 road test. The G2 licence gives you more freedom but still has some restrictions:\\n\\n• Zero blood alcohol level if you're 21 or under\\n• If you're 19 or under, you can only carry as many passengers as there are working seatbelts, but only one passenger aged 19 or under in the first 6 months (unless accompanied by a full G licence holder), and no more than three passengers aged 19 or under after 6 months\\n\\nYou must hold your G2 for at least 12 months before taking the full G road test."
+            },
+            {
+                "id": "full-g-licence",
+                "title": "Full G Licence",
+                "content": "The full G licence test includes highway driving. You must demonstrate your ability to merge, change lanes, and drive safely at highway speeds. Once you pass, you'll have full driving privileges in Ontario.\\n\\nMaintaining your licence requires following all traffic laws, paying fines on time, and keeping your address current with the Ministry of Transportation. Your licence must be renewed every 5 years."
+            }
+        ]
+    },
+    {
+        "id": "safe-driving",
+        "title": "2. Safe and Responsible Driving",
+        "image": "/images/chapter-2.png",
+        "sections": [
+            {
+                "id": "intro-safe",
+                "title": "Being a safe driver",
+                "content": "Being a safe and responsible driver takes a combination of knowledge, skill and attitude. You must know traffic laws and practices - breaking rules is a major cause of collisions.\\n\\nYou must also care about the safety of others on the road. This means being predictable, courteous, and always thinking about how your actions affect other road users. Good drivers anticipate problems before they happen and take action to avoid them."
+            },
+            {
+                "id": "defensive-driving",
+                "title": "Defensive Driving",
+                "content": "Defensive driving is based on three key principles: visibility, space, and communication.\\n\\nVisibility: See and be seen. Scan constantly - check mirrors every 5 seconds, look 12-15 seconds ahead, and check blind spots. Keep your windshield, mirrors, and lights clean. Use headlights in poor visibility.\\n\\nSpace: Maintain a cushion of space around your vehicle. Follow the 2-second rule (increase to 4 seconds in bad weather). Leave extra space beside large vehicles and in their blind spots.\\n\\nCommunication: Signal your intentions early and clearly. Make eye contact with other drivers and pedestrians. Use your horn when necessary to warn others of danger."
+            },
+            {
+                "id": "impaired-driving",
+                "title": "Impaired Driving",
+                "content": "Driving while impaired by alcohol or drugs is illegal and extremely dangerous. Even small amounts of alcohol affect your judgment, coordination, and reaction time.\\n\\nThe legal blood alcohol limit is 0.08%, but you can be charged with impaired driving at lower levels. For drivers under 22, G1 and G2 drivers, and commercial drivers, the limit is zero.\\n\\nPenalties include immediate licence suspension, vehicle impoundment, heavy fines, and possible jail time. Impaired driving can also result in criminal charges that stay on your record permanently."
+            },
+            {
+                "id": "distracted-driving",
+                "title": "Distracted Driving",
+                "content": "Distracted driving is any activity that takes your attention away from driving. This includes using handheld devices, eating, drinking, grooming, reading, or adjusting controls.\\n\\nUsing a handheld phone or device while driving is illegal. This includes texting, emailing, dialing, or browsing. Even hands-free devices can be distracting.\\n\\nPenalties for distracted driving include fines up to $1,000, three demerit points, and licence suspension. For novice drivers, the penalties are even more severe."
+            },
+            {
+                "id": "aggressive-driving",
+                "title": "Aggressive Driving and Road Rage",
+                "content": "Aggressive driving includes speeding, tailgating, cutting off other vehicles, running red lights, and making improper lane changes. These behaviors significantly increase collision risk.\\n\\nRoad rage is extreme aggressive driving motivated by anger. Never engage with aggressive drivers - give them space, don't make eye contact, and report dangerous driving to police if safe to do so.\\n\\nStay calm behind the wheel. If you feel angry or stressed, take deep breaths, listen to calming music, or pull over safely until you feel better."
+            },
+            {
+                "id": "fatigue",
+                "title": "Driving While Tired",
+                "content": "Fatigue slows your reaction time, impairs judgment, and can cause you to fall asleep at the wheel. Warning signs include yawning, heavy eyelids, drifting between lanes, and missing exits.\\n\\nIf you feel tired while driving, pull over in a safe location and rest. Even a 15-20 minute nap can help. Don't rely on coffee or energy drinks - they provide only temporary alertness.\\n\\nPlan long trips with regular breaks every 2 hours. Share driving duties when possible. Avoid driving during hours when you'd normally be sleeping."
+            }
+        ]
+    },
+    {
+        "id": "getting-ready",
+        "title": "3. Getting Ready to Drive",
+        "image": "/images/chapter-3.png",
+        "sections": [
+            {
+                "id": "physical-mental",
+                "title": "Be physically and mentally alert",
+                "content": "Don't drive when sick, injured, tired, or under the influence of alcohol, drugs, or medication that causes drowsiness. Fatigue slows thinking and reaction time as much as alcohol.\\n\\nStrong emotions like anger, stress, or sadness can also reduce driving ability. If you're upset, wait until you calm down before driving. Your full attention must be on the road."
+            },
+            {
+                "id": "know-vehicle",
+                "title": "Know your vehicle",
+                "content": "Get to know your vehicle's controls and systems before driving. Understand how your brakes work (ABS vs. conventional), how to use lights, wipers, defrosters, and emergency flashers.\\n\\nCheck warning lights on your dashboard - know what each one means. Ensure you can operate essential controls without looking away from the road.\\n\\nLearn about your vehicle's safety features like airbags, stability control, and backup cameras. Understand their limitations - they assist you but don't replace safe driving practices."
+            },
+            {
+                "id": "vehicle-checks",
+                "title": "Pre-Drive Vehicle Checks",
+                "content": "Before driving, walk around your vehicle and check:\\n\\n• Tires: proper inflation and no visible damage\\n• Lights: all lights working (headlights, brake lights, turn signals)\\n• Mirrors: clean and properly adjusted\\n• Windows: clean and clear of ice, snow, or debris\\n• Fluid levels: check oil, coolant, and windshield washer fluid regularly\\n• License plate: clean and visible\\n\\nIn winter, clear all snow and ice from your entire vehicle, not just a small viewing area. It's illegal and dangerous to drive with snow on your roof or windows."
+            },
+            {
+                "id": "position",
+                "title": "Get into position",
+                "content": "Sit high enough to see over the steering wheel with a clear view of the road. Your seat should be far enough back that your elbows are slightly bent when holding the wheel at 9 and 3 o'clock.\\n\\nYour feet should reach the pedals easily without stretching. You should be able to press the brake pedal fully with your right foot while your back stays against the seat.\\n\\nAdjust the headrest so it's behind the middle of your head, not your neck. This protects you from whiplash in a rear-end collision. The top of the headrest should be level with the top of your head."
+            },
+            {
+                "id": "mirrors",
+                "title": "Adjust your mirrors",
+                "content": "Adjust mirrors before you start driving. Your rearview mirror should frame the entire rear window. Side mirrors should show a small portion of your vehicle's side and mostly the lane beside you.\\n\\nProper mirror adjustment minimizes blind spots but doesn't eliminate them. You must still do shoulder checks before changing lanes or merging."
+            },
+            {
+                "id": "blind-spots",
+                "title": "Blind spots",
+                "content": "Blind spots are areas around your vehicle that you can't see in your mirrors. They're usually to the back left and right of your vehicle.\\n\\nAlways do a shoulder check before changing lanes, merging, or turning. This means turning your head to look over your shoulder in the direction you plan to move.\\n\\nLearn where your blind spots are by having someone walk around your parked car while you sit in the driver's seat. Note where they disappear from your view."
+            },
+            {
+                "id": "seatbelts",
+                "title": "Fasten your seatbelt",
+                "content": "All passengers must wear seatbelts. As the driver, you can be fined and receive demerit points for passengers under 16 who aren't buckled up.\\n\\nWear your seatbelt properly: the lap belt should sit low across your hips, and the shoulder belt should cross your chest and shoulder. Never put the shoulder belt under your arm or behind your back.\\n\\nNever put more than one person in a seatbelt. Children must use appropriate car seats or booster seats based on their age, weight, and height.\\n\\nSeatbelts reduce your risk of death or serious injury by about 50%. They keep you in position to control the vehicle and prevent you from being ejected in a collision."
+            },
+            {
+                "id": "starting-engine",
+                "title": "Starting the engine",
+                "content": "Before starting the engine:\\n\\n• Ensure the parking brake is on\\n• Put the vehicle in Park (automatic) or Neutral (manual)\\n• Check that all doors are closed\\n• Adjust climate controls as needed\\n\\nAfter starting, check your gauges and warning lights. Let the engine warm up briefly in very cold weather. Never warm up your vehicle in an enclosed space like a garage - carbon monoxide can build up quickly."
+            }
+        ]
+    },
+    {
+        "id": "driving-along",
+        "title": "4. Driving Along",
+        "image": "/images/chapter-4.png",
+        "sections": [
+            {
+                "id": "awareness",
+                "title": "Stay aware",
+                "content": "Always be aware of traffic around you. Check mirrors every five seconds. Scan 12-15 seconds ahead to identify potential hazards early.\\n\\nCheck blind spots by turning your head before changing lanes or merging. Keep a cushion of space around your vehicle - front, back, and sides.\\n\\nAnticipate other drivers' movements by watching their wheels, brake lights, and turn signals. Expect the unexpected and always have an escape route planned."
+            },
+            {
+                "id": "steering",
+                "title": "Steer smoothly",
+                "content": "All steering should be smooth and precise. Jerky movements can cause loss of control, especially at high speeds or in bad weather.\\n\\nPlace your hands at nine o'clock and three o'clock on the steering wheel (or eight and four). This gives you maximum control and allows the airbag to deploy safely.\\n\\nUse hand-over-hand steering for sharp turns. For gentle curves and lane changes, simply turn the wheel smoothly without repositioning your hands.\\n\\nNever take both hands off the wheel while moving. You should be able to steer while shifting gears or checking blind spots."
+            },
+            {
+                "id": "acceleration",
+                "title": "Accelerate smoothly",
+                "content": "Accelerate gradually and smoothly. Sudden acceleration wastes fuel, causes unnecessary wear, and can cause loss of traction.\\n\\nWhen merging onto highways, accelerate to match the speed of traffic. Use the acceleration lane fully to reach highway speed before merging.\\n\\nIn slippery conditions, accelerate very gently to avoid wheel spin. If your wheels spin, ease off the gas until they grip again."
+            },
+            {
+                "id": "braking",
+                "title": "Brake properly",
+                "content": "Start braking early and gradually. Smooth braking is safer and more comfortable for passengers.\\n\\nFor vehicles with ABS (anti-lock brakes), apply firm, steady pressure in emergencies. Don't pump the brakes - the system does this automatically. You may feel pulsing in the pedal - this is normal.\\n\\nFor vehicles without ABS, use threshold braking: apply pressure just short of locking the wheels. If wheels lock, ease off slightly until they roll again.\\n\\nIncrease following distance in bad weather and brake earlier and more gently. Sudden braking on slippery roads can cause skids."
+            },
+            {
+                "id": "signals",
+                "title": "Use signals",
+                "content": "Signal before stopping, slowing down, turning, changing lanes, or leaving the road. Give the signal well before taking action - at least 30 meters (100 feet) in cities and towns, and earlier on highways.\\n\\nMake sure other drivers can see your signal. Check that it's working and cancel it after completing your maneuver.\\n\\nSignaling doesn't give you the right-of-way. You must still check that the way is clear before proceeding.\\n\\nUse your brake lights to communicate too. Tap your brakes lightly to warn drivers behind you when slowing down."
+            },
+            {
+                "id": "keep-right",
+                "title": "Keep right",
+                "content": "Keep to the right of the road or in the right-hand lane on multi-lane roads unless you want to turn left or pass another vehicle.\\n\\nThis is especially important if you're driving more slowly than other vehicles. Slower traffic must keep right to allow faster traffic to pass safely.\\n\\nOn highways with three or more lanes, use the middle and left lanes for passing only. Return to the right lane when you've finished passing."
+            },
+            {
+                "id": "speed-limits",
+                "title": "Obey speed limits",
+                "content": "Obey the maximum speed limit posted on signs, but always drive at a speed that will let you stop safely. The posted limit is for ideal conditions - you must slow down in bad weather, heavy traffic, or construction zones.\\n\\nWhere there are no posted limits: 50 km/h in cities, towns, villages, and built-up areas; 80 km/h on most roads outside cities and towns; 100 km/h on most provincial highways.\\n\\nSpeed limits in school zones and community safety zones are strictly enforced. Fines are doubled in these areas.\\n\\nDriving too slowly can also be dangerous. You must maintain a reasonable speed that doesn't impede normal traffic flow."
+            },
+            {
+                "id": "following-distance",
+                "title": "Following distance",
+                "content": "Use the 2-second rule: pick a fixed point ahead (like a sign or tree). When the vehicle in front passes it, count 'one thousand and one, one thousand and two.' You should reach the point after you finish counting.\\n\\nIncrease to 4 seconds in bad weather, heavy traffic, or when following motorcycles or large vehicles. If someone is tailgating you, increase your following distance to give yourself more time to stop gradually.\\n\\nNever tailgate. Following too closely is a major cause of rear-end collisions and is considered aggressive driving."
+            },
+            {
+                "id": "passing",
+                "title": "Passing other vehicles",
+                "content": "Only pass when it's safe and legal. Never pass:\\n\\n• On a curve or hill where you can't see far enough ahead\\n• Within 30 meters of a bridge, tunnel, or railway crossing\\n• At an intersection or pedestrian crossover\\n• Where a sign or pavement marking prohibits passing\\n• When a vehicle ahead is stopped for a pedestrian\\n\\nWhen passing:\\n\\n1. Check mirrors and blind spots\\n2. Signal left\\n3. Move into the passing lane when clear\\n4. Accelerate smoothly past the vehicle\\n5. Signal right and return to your lane when you can see the passed vehicle in your rearview mirror\\n6. Cancel your signal\\n\\nNever speed to pass. If you can't pass within the speed limit, don't pass."
+            },
+            {
+                "id": "lane-changes",
+                "title": "Changing lanes",
+                "content": "Before changing lanes:\\n\\n1. Check mirrors\\n2. Signal your intention\\n3. Check blind spot with a shoulder check\\n4. Move smoothly into the new lane when clear\\n5. Cancel your signal\\n\\nNever change lanes in an intersection or pedestrian crossover. Don't weave in and out of traffic - it's dangerous and illegal.\\n\\nOn multi-lane roads, change one lane at a time. After changing, ensure you're centered in the new lane before considering another change."
+            }
+        ]
+    },
+    {
+        "id": "sharing-road",
+        "title": "5. Sharing the Road",
+        "image": "/images/chapter-5.png",
+        "sections": [
+            {
+                "id": "pedestrians",
+                "title": "Sharing with pedestrians",
+                "content": "Pedestrians have the right-of-way at crosswalks, pedestrian crossovers, and school crossings. You must stop and yield.\\n\\nWatch for children in school zones and residential areas. Children are unpredictable and may run into the road without looking.\\n\\nDo not pass vehicles stopped at crosswalks - they may be stopped for pedestrians you can't see.\\n\\nBe patient with seniors and people with disabilities who may need more time to cross. Watch for white canes (blind pedestrians) and guide dogs.\\n\\nWatch for people in dark clothing, especially at night. Pedestrians are much harder to see in low light."
+            },
+            {
+                "id": "cyclists",
+                "title": "Sharing with cyclists",
+                "content": "Cyclists have the same rights and responsibilities as drivers. Treat them with respect and give them space.\\n\\nLeave at least 1 meter of space when passing cyclists. If there isn't enough room, slow down and wait for a safe opportunity to pass.\\n\\nCheck blind spots before turning right - cyclists may be beside you. Never cut off a cyclist when turning.\\n\\nCyclists may signal right turns by holding their right arm straight out or their left arm bent upward at the elbow.\\n\\nBe extra careful when opening car doors - check for cyclists approaching from behind. 'Dooring' a cyclist can cause serious injury.\\n\\nWatch for cyclists at intersections. They may be harder to see than cars."
+            },
+            {
+                "id": "motorcyclists",
+                "title": "Sharing with motorcyclists",
+                "content": "Motorcycles are harder to see than cars. Always check blind spots carefully. Look twice at intersections - many motorcycle collisions happen when drivers don't see motorcycles.\\n\\nMotorcycles can stop more quickly than cars. Leave extra following distance.\\n\\nDon't share a lane with a motorcycle. They need the full lane width to maneuver safely.\\n\\nWatch for motorcycles when changing lanes or merging. Their smaller size makes it harder to judge their speed and distance."
+            },
+            {
+                "id": "large-vehicles",
+                "title": "Sharing with large vehicles",
+                "content": "Large commercial vehicles (trucks and buses) have large blind spots on all four sides, especially to the right and rear. If you can't see the driver in their mirror, they can't see you.\\n\\nDon't drive in their blind spots. Either pass them completely or drop back.\\n\\nGive them extra space when turning - they need more room and may swing wide. Never try to squeeze between a turning truck and the curb.\\n\\nBe patient when they're backing up or making wide turns. Never pass a truck on the right when it's turning right.\\n\\nLeave extra following distance - you need to see around them to spot hazards ahead. Large vehicles also create wind turbulence that can affect your vehicle.\\n\\nLarge vehicles take longer to stop. Don't cut in front of them."
+            },
+            {
+                "id": "emergency-vehicles",
+                "title": "Emergency vehicles",
+                "content": "When an emergency vehicle approaches with lights and sirens:\\n\\n• Pull to the right and stop\\n• Stay stopped until the emergency vehicle passes\\n• Check that no other emergency vehicles are coming before proceeding\\n\\nNever follow within 150 meters of an emergency vehicle with its lights flashing.\\n\\nNever drive through or park in a fire station entrance.\\n\\nSlow down and move over when passing stopped emergency vehicles, tow trucks, or maintenance vehicles with flashing lights. This is the law."
+            },
+            {
+                "id": "school-buses",
+                "title": "School buses",
+                "content": "When a school bus stops with its upper red lights flashing, you must stop at least 20 meters away. This applies whether you're behind the bus or approaching from the opposite direction.\\n\\nDon't proceed until the bus moves or the lights stop flashing. Watch for children crossing the road.\\n\\nThe only exception is on divided highways - if you're on the opposite side of a median or barrier, you don't need to stop.\\n\\nPassing a stopped school bus can result in fines up to $2,000 and six demerit points."
+            },
+            {
+                "id": "public-transit",
+                "title": "Public transit vehicles",
+                "content": "Watch for buses pulling out from stops. Yield to buses signaling to re-enter traffic from a bus bay.\\n\\nBe careful around streetcars. Pass them only on the right and only when it's safe. When a streetcar stops to load or unload passengers, you must stop behind the rear doors until passengers have crossed to the sidewalk.\\n\\nNever pass open streetcar doors where passengers are getting on or off."
+            }
+        ]
+    },
+    {
+        "id": "intersections",
+        "title": "6. Driving Through Intersections",
+        "image": "/images/chapter-6.png",
+        "sections": [
+            {
+                "id": "controlled",
+                "title": "Controlled intersections",
+                "content": "Controlled intersections have traffic lights, yield signs, or stop signs.\\n\\nAt a green light: Drive through at a steady speed if the way is clear. If the light has been green for a while, be prepared to stop - it may change. Look both ways before entering the intersection even on a green light.\\n\\nAt a yellow light: Stop if you can do so safely. If you're too close to stop safely, proceed with caution. Never speed up to beat a yellow light.\\n\\nAt a red light: Come to a complete stop at the stop line or crosswalk. Wait until the light turns green and the intersection is clear before proceeding. You may turn right on a red light after stopping and yielding to traffic and pedestrians, unless a sign prohibits it.\\n\\nAt a stop sign: Come to a complete stop. Your wheels must stop moving. Yield to traffic and pedestrians, then proceed when clear."
+            },
+            {
+                "id": "uncontrolled",
+                "title": "Uncontrolled intersections",
+                "content": "Uncontrolled intersections have no signs or traffic lights. They're usually found in residential areas.\\n\\nSlow down and be prepared to stop. If two vehicles arrive at the same time, the driver on the left must yield to the driver on the right.\\n\\nIf you're turning left, yield to oncoming traffic. If you're turning right, yield to pedestrians.\\n\\nBe extra careful at these intersections - other drivers may not know the rules or may not see you."
+            },
+            {
+                "id": "right-of-way",
+                "title": "Yielding the right-of-way",
+                "content": "You must yield the right-of-way when:\\n\\n• Entering a road from a private driveway or laneway\\n• Turning left (yield to oncoming traffic and pedestrians)\\n• Turning right (yield to pedestrians)\\n• At a yield sign\\n• At a pedestrian crossover\\n• When a vehicle on your right arrives at the same time at an uncontrolled intersection\\n• When entering a road from a parking lot\\n• When merging onto a highway\\n\\nSignaling doesn't give you the right-of-way. You must still yield when required.\\n\\nEven when you have the right-of-way, be prepared to yield to avoid a collision. Defensive driving means being willing to give up your right-of-way for safety."
+            },
+            {
+                "id": "left-turns",
+                "title": "Making left turns",
+                "content": "When turning left:\\n\\n1. Signal at least 30 meters before the turn\\n2. Move into the left lane or left turn lane\\n3. Slow down as you approach the intersection\\n4. Stop if necessary and yield to oncoming traffic and pedestrians\\n5. Check for traffic from all directions\\n6. Turn into the left lane of the road you're entering\\n7. Cancel your signal\\n\\nAt traffic lights, move forward into the intersection while waiting to turn. If the light changes before you can turn, you must clear the intersection by completing your turn.\\n\\nNever turn from the wrong lane. If you're in the right lane and need to turn left, continue straight and find another way to turn around."
+            },
+            {
+                "id": "right-turns",
+                "title": "Making right turns",
+                "content": "When turning right:\\n\\n1. Signal at least 30 meters before the turn\\n2. Move into the right lane\\n3. Slow down as you approach\\n4. Check for pedestrians and cyclists\\n5. Check your right blind spot\\n6. Turn into the right lane of the road you're entering\\n7. Cancel your signal\\n\\nWatch for pedestrians in the crosswalk. Check your right blind spot for cyclists - never cut off a cyclist when turning.\\n\\nMake your turn from the curb lane unless signs or pavement markings indicate otherwise."
+            },
+            {
+                "id": "roundabouts",
+                "title": "Roundabouts",
+                "content": "Roundabouts are circular intersections where traffic moves counter-clockwise around a center island.\\n\\nWhen approaching a roundabout:\\n\\n1. Slow down\\n2. Yield to traffic already in the roundabout\\n3. Watch for pedestrians in crosswalks\\n4. Enter when there's a safe gap\\n5. Stay in your lane - don't change lanes in the roundabout\\n6. Signal right before your exit\\n7. Exit carefully, watching for pedestrians\\n\\nNever stop in a roundabout unless necessary to avoid a collision. Don't pass other vehicles in a roundabout."
+            }
+        ]
+    },
+    {
+        "id": "traffic-signs",
+        "title": "7. Traffic Signs and Lights",
+        "image": "/images/chapter-7.png",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Introduction",
+                "content": "Traffic signs, lights, and pavement markings tell drivers and other road users what they must do in certain situations. Understanding these signs is essential for safe driving and is required to pass your knowledge test.\\n\\nSigns are designed to be recognized quickly by their shape, color, and symbols. Even if you can't read the words, you should be able to understand what the sign means."
+            },
+            {
+                "id": "regulatory-signs",
+                "title": "Regulatory Signs",
+                "content": "Regulatory signs give directions that must be obeyed. They're usually rectangular or square with a white or black background.\\n\\nA green circle means you may or must do the activity shown inside. A red circle with a line through it means the activity is not allowed.\\n\\nCommon regulatory signs:\\n\\n• Stop Sign: Eight-sided red sign - come to a complete stop\\n• Yield Sign: Upside-down triangle with red border - slow down and yield to traffic\\n• Do Not Enter: Red circle with white bar - don't enter this road\\n• One Way: White arrow on black background - traffic flows in one direction only\\n• Speed Limit: Maximum speed allowed in ideal conditions\\n• No Parking: Red circle with P crossed out - parking prohibited\\n• No Stopping: Red circle with S crossed out - stopping prohibited\\n\\nDisobeying regulatory signs can result in fines and demerit points."
+            },
+            {
+                "id": "warning-signs",
+                "title": "Warning Signs",
+                "content": "Warning signs alert you to dangerous or unusual conditions ahead such as curves, turns, dips, or side roads. They're usually diamond-shaped with a yellow background and black symbols.\\n\\nCommon warning signs:\\n\\n• Curve Ahead: Curved arrow showing direction of curve\\n• Winding Road: S-shaped arrow\\n• Intersection Ahead: T or cross shape\\n• Merge: Two lanes becoming one\\n• Slippery When Wet: Car with skid marks\\n• Steep Hill: Truck on slope with percentage\\n• Railway Crossing: X with RR letters\\n• Pedestrian Crossing: Walking person symbol\\n• School Zone: Children crossing symbol\\n• Deer Crossing: Deer symbol\\n\\nWhen you see a warning sign, slow down and be prepared for the hazard ahead."
+            },
+            {
+                "id": "information-signs",
+                "title": "Information and Direction Signs",
+                "content": "These signs provide information about destinations, distances, services, and points of interest.\\n\\nHighway signs are green with white letters showing destinations and distances. Exit numbers help you navigate.\\n\\nService signs are blue with white symbols showing nearby services like gas stations, hospitals, or food.\\n\\nTourist signs are brown with white symbols showing attractions and recreational areas."
+            },
+            {
+                "id": "construction-signs",
+                "title": "Construction and Maintenance Signs",
+                "content": "Construction signs are orange with black text or symbols. They warn of construction zones, road work, and temporary hazards.\\n\\nSlow down in construction zones. Workers may be present. Speed limits are often reduced and fines are doubled.\\n\\nWatch for flag persons directing traffic. Follow their instructions - they have the same authority as traffic signs.\\n\\nConstruction zones may have temporary lane changes, narrow lanes, or uneven pavement. Stay alert and be patient."
+            },
+            {
+                "id": "pavement-markings",
+                "title": "Pavement Markings",
+                "content": "Pavement markings work with signs to guide traffic.\\n\\nYellow lines separate traffic moving in opposite directions. White lines separate traffic moving in the same direction.\\n\\nSolid lines mean no passing. Broken lines mean passing is allowed when safe.\\n\\nA solid line on your side with a broken line on the other side means you can't pass, but oncoming traffic can.\\n\\nStop lines show where to stop at intersections. Crosswalk lines show where pedestrians cross.\\n\\nArrows show which direction lanes must go. Diamond symbols mark HOV (high-occupancy vehicle) lanes."
+            },
+            {
+                "id": "traffic-lights",
+                "title": "Traffic Lights",
+                "content": "Traffic lights control traffic at intersections.\\n\\nGreen light: Proceed if the way is clear. Yield to pedestrians and vehicles already in the intersection.\\n\\nYellow light: The light is about to turn red. Stop if you can do so safely. If you're too close to stop safely, proceed with caution.\\n\\nRed light: Stop at the stop line or crosswalk. You may turn right after stopping and yielding, unless a sign prohibits it. Some intersections allow left turns on red from a one-way street onto another one-way street.\\n\\nGreen arrow: You may proceed in the direction of the arrow. Oncoming traffic has a red light.\\n\\nFlashing green light or green arrow with green light: You may turn left, go straight, or turn right. Oncoming traffic has a red light.\\n\\nFlashing yellow light: Proceed with caution.\\n\\nFlashing red light: Treat it like a stop sign - stop, yield, then proceed when clear."
+            },
+            {
+                "id": "hov-signs",
+                "title": "HOV Lanes",
+                "content": "HOV (High-Occupancy Vehicle) lanes are reserved for vehicles with multiple occupants. Signs indicate the minimum number of passengers required (usually 2 or 3).\\n\\nOnly public vehicles like buses, or passenger vehicles carrying the specified minimum number of passengers, may use HOV lanes.\\n\\nYou can only enter or exit HOV lanes where the pavement line is broken. Solid lines mean you cannot change lanes into or out of the HOV lane.\\n\\nFines for illegal use of HOV lanes are substantial."
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "front": "A stop sign is eight-sided and has a red background with white letters.",
+        "back": "Stop Sign",
+        "category": "Regulatory"
+    },
+    {
+        "id": 2,
+        "front": "A school zone sign is five-sided and has a fluorescent yellow/green background with black symbols.",
+        "back": "School Zone Sign",
+        "category": "Warning"
+    },
+    {
+        "id": 3,
+        "front": "A yield sign is a triangle with a white background and a red border.",
+        "back": "Yield Sign",
+        "category": "Regulatory"
+    },
+    {
+        "id": 4,
+        "front": "A railway crossing sign is X-shaped with a white background and red outline.",
+        "back": "Railway Crossing Sign",
+        "category": "Warning"
+    },
+    {
+        "id": 5,
+        "front": "A red circle with a line through it means...",
+        "back": "The activity shown is not allowed.",
+        "category": "Regulatory"
+    },
+    {
+        "id": 6,
+        "front": "A sign with a green circle means...",
+        "back": "You may or must do the activity shown inside the ring.",
+        "category": "Regulatory"
+    },
+    {
+        "id": 7,
+        "front": "Diamond-shaped sign with a yellow background and black letters or symbols.",
+        "back": "Warning Sign",
+        "category": "Warning"
+    },
+    {
+        "id": 8,
+        "front": "This sign warns of a steep hill ahead.",
+        "back": "Steep Hill Warning",
+        "category": "Warning"
+    },
+    {
+        "id": 9,
+        "front": "This sign warns that the pavement is slippery when wet.",
+        "back": "Slippery When Wet",
+        "category": "Warning"
+    },
+    {
+        "id": 10,
+        "front": "This sign indicates a maximum safe speed for a curve.",
+        "back": "Advisory Speed Limit",
+        "category": "Warning"
+    }
+]

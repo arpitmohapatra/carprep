@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "question": "To get your vehicle out of a skid, you should first:",
+        "options": [
+            "Steer straight ahead.",
+            "Steer in the opposite direction of the skid.",
+            "Steer in the direction you want to go.",
+            "Apply brakes hard."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Always steer in the direction you want the vehicle to go. This helps regain control and straighten out the skid."
+    },
+    {
+        "id": 2,
+        "question": "When may you lend your driver's licence?",
+        "options": [
+            "In emergencies.",
+            "To a person learning to drive.",
+            "It is not permitted.",
+            "For identification purposes."
+        ],
+        "correctAnswer": 2,
+        "explanation": "You must never lend your driver's licence to anyone. It's illegal and can result in serious penalties."
+    },
+    {
+        "id": 3,
+        "question": "What must a driver do before entering a highway from a private road or driveway?",
+        "options": [
+            "Enter or cross the highway as quickly as possible.",
+            "Yield right-of-way to all vehicles approaching on the highway.",
+            "Sound horn and proceed with caution.",
+            "Give hand signal then take right-of-way."
+        ],
+        "correctAnswer": 1,
+        "explanation": "You must yield the right-of-way to all vehicles on the highway. Wait for a safe gap before entering."
+    },
+    {
+        "id": 4,
+        "question": "Never change lanes in traffic without:",
+        "options": [
+            "Looking in the rear view mirror only.",
+            "Giving proper signal and looking to make sure the move can be made safely.",
+            "Blowing your horn and looking to the rear.",
+            "Decreasing speed and giving correct signal."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Always signal and check your blind spots before changing lanes. This ensures other drivers know your intentions and the lane is clear."
+    },
+    {
+        "id": 5,
+        "question": "When the driver of another vehicle is about to overtake and pass your vehicle, you must:",
+        "options": [
+            "Speed up so that passing is not necessary.",
+            "Move to the left to prevent passing.",
+            "Signal to the other driver not to pass.",
+            "Move to the right and allow such vehicle to pass."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Move to the right and let them pass safely. This is courteous and helps prevent dangerous situations."
+    },
+    {
+        "id": 6,
+        "question": "When you are deciding whether or not to make a U-turn, your first consideration should be to check:",
+        "options": [
+            "Traffic regulations.",
+            "Presence of trees, fire hydrants or poles near the curb.",
+            "Turning radius of your car.",
+            "Height of curb."
+        ],
+        "correctAnswer": 0,
+        "explanation": "First check if U-turns are allowed in that area. Many locations prohibit U-turns for safety reasons."
+    },
+    {
+        "id": 7,
+        "question": "It is more dangerous to drive at the maximum speed limit at night than during daytime as:",
+        "options": [
+            "Your reaction time is slower at night.",
+            "You cannot see as far ahead at night.",
+            "Some drivers unlawfully drive with parking lights only.",
+            "The roadways are more apt to be slippery at night."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Visibility is reduced at night, so you can't see hazards as far ahead. Your headlights illuminate only a limited distance."
+    },
+    {
+        "id": 8,
+        "question": "You should under all conditions drive at a speed which will allow you to:",
+        "options": [
+            "Stop within 150 metres (500 feet).",
+            "Stop within 90 metres (300 feet).",
+            "Stop within 60 metres (200 feet).",
+            "Stop within a safe distance."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Always drive at a speed that allows you to stop safely for the conditions. This varies based on weather, visibility, and road conditions."
+    },
+    {
+        "id": 9,
+        "question": "What is the minimum following distance you should maintain in ideal conditions?",
+        "options": [
+            "1 second",
+            "2 seconds",
+            "3 seconds",
+            "4 seconds"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The 2-second rule is the minimum safe following distance in ideal conditions. Increase this in bad weather or heavy traffic."
+    },
+    {
+        "id": 10,
+        "question": "At an intersection with a flashing red light, you must:",
+        "options": [
+            "Slow down and proceed with caution.",
+            "Stop, yield to traffic, then proceed when safe.",
+            "Stop only if other vehicles are present.",
+            "Proceed without stopping."
+        ],
+        "correctAnswer": 1,
+        "explanation": "A flashing red light means the same as a stop sign. You must come to a complete stop, yield, and proceed when it's safe."
+    },
+    {
+        "id": 11,
+        "question": "When approaching a stopped school bus with its upper red lights flashing, you must:",
+        "options": [
+            "Slow down and pass with caution.",
+            "Stop at least 20 metres away.",
+            "Stop only if children are visible.",
+            "Sound your horn and proceed slowly."
+        ],
+        "correctAnswer": 1,
+        "explanation": "You must stop at least 20 metres away from a school bus with flashing red lights, whether approaching from behind or the front. Wait until the lights stop flashing before proceeding."
+    },
+    {
+        "id": 12,
+        "question": "What does a solid yellow line on your side of the road mean?",
+        "options": [
+            "Passing is allowed.",
+            "Passing is not allowed.",
+            "Slow down.",
+            "Construction zone ahead."
+        ],
+        "correctAnswer": 1,
+        "explanation": "A solid yellow line on your side means you cannot pass. Wait until the line becomes broken before attempting to pass."
+    },
+    {
+        "id": 13,
+        "question": "When parking uphill with a curb, you should:",
+        "options": [
+            "Turn wheels toward the curb.",
+            "Turn wheels away from the curb.",
+            "Leave wheels straight.",
+            "Turn wheels in either direction."
+        ],
+        "correctAnswer": 1,
+        "explanation": "When parking uphill with a curb, turn your wheels away from the curb. If the vehicle rolls, it will roll into the curb and stop."
+    },
+    {
+        "id": 14,
+        "question": "What is the blood alcohol limit for fully licensed drivers in Ontario?",
+        "options": [
+            "Zero",
+            "0.05%",
+            "0.08%",
+            "0.10%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The legal limit is 0.08% for fully licensed drivers. However, you can be charged with impaired driving at lower levels if your ability is affected."
+    },
+    {
+        "id": 15,
+        "question": "What is the blood alcohol limit for G1 and G2 drivers?",
+        "options": [
+            "Zero",
+            "0.05%",
+            "0.08%",
+            "Same as fully licensed drivers"
+        ],
+        "correctAnswer": 0,
+        "explanation": "G1 and G2 drivers must have zero blood alcohol. Any detectable amount will result in penalties."
+    },
+    {
+        "id": 16,
+        "question": "When entering a freeway, you should:",
+        "options": [
+            "Stop and wait for a gap in traffic.",
+            "Enter slowly and speed up gradually.",
+            "Use the acceleration lane to match the speed of traffic.",
+            "Enter at any speed."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Use the full acceleration lane to reach highway speed, then merge smoothly when there's a safe gap in traffic."
+    },
+    {
+        "id": 17,
+        "question": "If you are involved in a collision with no injuries but damage over $2,000, you must:",
+        "options": [
+            "Report it to police immediately.",
+            "Report it to police within 24 hours.",
+            "Report it to your insurance only.",
+            "No report is necessary."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Collisions with damage over $2,000 must be reported to police within 24 hours, even if there are no injuries."
+    },
+    {
+        "id": 18,
+        "question": "When may you use your high beam headlights?",
+        "options": [
+            "At all times at night.",
+            "When there is no oncoming traffic within 150 metres.",
+            "Only on highways.",
+            "Never in Ontario."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Use high beams when there's no oncoming traffic within 150 metres and you're not following another vehicle within 60 metres. They help you see farther but can blind other drivers."
+    },
+    {
+        "id": 19,
+        "question": "A red circle with a line through it means:",
+        "options": [
+            "You may proceed with caution.",
+            "The action shown is required.",
+            "The action shown is not allowed.",
+            "Construction zone."
+        ],
+        "correctAnswer": 2,
+        "explanation": "A red circle with a line through it is a prohibition sign - the action shown inside is not allowed."
+    },
+    {
+        "id": 20,
+        "question": "Diamond-shaped signs with yellow background indicate:",
+        "options": [
+            "Regulatory information.",
+            "Warning of hazards ahead.",
+            "Construction zones.",
+            "School zones."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yellow diamond signs are warning signs that alert you to hazards or unusual conditions ahead, such as curves, intersections, or slippery roads."
+    },
+    {
+        "id": 21,
+        "question": "When turning left at an intersection with a green light, you must:",
+        "options": [
+            "Turn immediately without stopping.",
+            "Yield to oncoming traffic and pedestrians.",
+            "Have the right-of-way over all vehicles.",
+            "Sound your horn before turning."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Even with a green light, you must yield to oncoming traffic and pedestrians when turning left. Wait for a safe gap before turning."
+    },
+    {
+        "id": 22,
+        "question": "What should you do if your gas pedal sticks?",
+        "options": [
+            "Shift to neutral and brake.",
+            "Turn off the ignition immediately.",
+            "Pump the gas pedal.",
+            "Apply the parking brake."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Shift to neutral to disconnect the engine from the wheels, then brake normally. Don't turn off the ignition as you'll lose power steering and brakes."
+    },
+    {
+        "id": 23,
+        "question": "When are you required to wear a seatbelt?",
+        "options": [
+            "Only on highways.",
+            "Only when driving over 50 km/h.",
+            "At all times when the vehicle is moving.",
+            "Only in the front seat."
+        ],
+        "correctAnswer": 2,
+        "explanation": "All occupants must wear seatbelts at all times when the vehicle is in motion, regardless of seating position or speed."
+    },
+    {
+        "id": 24,
+        "question": "When passing a cyclist, you should leave at least:",
+        "options": [
+            "30 centimetres of space.",
+            "60 centimetres of space.",
+            "1 metre of space.",
+            "No specific distance required."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Leave at least 1 metre (3 feet) of space when passing a cyclist. If there isn't enough room, slow down and wait for a safe opportunity."
+    },
+    {
+        "id": 25,
+        "question": "What does a green arrow with a green light mean?",
+        "options": [
+            "You may only turn in the direction of the arrow.",
+            "You may turn left, go straight, or turn right; oncoming traffic has a red light.",
+            "Yield before turning.",
+            "Pedestrians have the right-of-way."
+        ],
+        "correctAnswer": 1,
+        "explanation": "A green arrow with a green light (or flashing green) means you have an advanced green - you can turn left, go straight, or turn right, and oncoming traffic has a red light."
+    },
+    {
+        "id": 26,
+        "question": "When driving in fog, you should:",
+        "options": [
+            "Use high beam headlights.",
+            "Use low beam headlights.",
+            "Use parking lights only.",
+            "Turn off all lights."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Use low beam headlights in fog. High beams reflect off the fog and reduce visibility. Also use fog lights if your vehicle has them."
+    },
+    {
+        "id": 27,
+        "question": "If your brakes fail while driving, you should:",
+        "options": [
+            "Pump the brake pedal rapidly.",
+            "Pull the parking brake hard.",
+            "Turn off the engine.",
+            "Shift to a higher gear."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pump the brake pedal rapidly to build up brake pressure. If that doesn't work, downshift to slow down and use the parking brake gently."
+    },
+    {
+        "id": 28,
+        "question": "When may you turn right on a red light?",
+        "options": [
+            "Never.",
+            "After stopping and yielding, unless prohibited by a sign.",
+            "Only if no pedestrians are present.",
+            "Anytime if the way is clear."
+        ],
+        "correctAnswer": 1,
+        "explanation": "You may turn right on a red light after coming to a complete stop and yielding to traffic and pedestrians, unless a sign prohibits it."
+    },
+    {
+        "id": 29,
+        "question": "What is the speed limit in a school zone during school hours?",
+        "options": [
+            "30 km/h",
+            "40 km/h",
+            "50 km/h",
+            "As posted on signs"
+        ],
+        "correctAnswer": 3,
+        "explanation": "School zone speed limits vary and are posted on signs. Always watch for and obey posted school zone speed limits. Fines are often doubled in school zones."
+    },
+    {
+        "id": 30,
+        "question": "When approaching a railway crossing with flashing lights, you must:",
+        "options": [
+            "Slow down and proceed with caution.",
+            "Stop at least 5 metres from the nearest rail.",
+            "Stop only if a train is visible.",
+            "Sound your horn and proceed."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Stop at least 5 metres from the nearest rail when lights are flashing. Don't proceed until the lights stop flashing and it's safe to cross."
+    },
+    {
+        "id": 31,
+        "question": "What does a white X pavement marking mean?",
+        "options": [
+            "Pedestrian crossing.",
+            "Railway crossing ahead.",
+            "No parking zone.",
+            "Intersection ahead."
+        ],
+        "correctAnswer": 1,
+        "explanation": "A white X on the pavement warns of a railway crossing ahead. Slow down and be prepared to stop."
+    },
+    {
+        "id": 32,
+        "question": "When driving at night, you should:",
+        "options": [
+            "Always use high beams.",
+            "Look directly at oncoming headlights.",
+            "Look slightly to the right of oncoming vehicles.",
+            "Drive faster to reduce time on the road."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Look slightly to the right edge of your lane when facing oncoming headlights. This helps you avoid being blinded while staying in your lane."
+    },
+    {
+        "id": 33,
+        "question": "If you are driving and suddenly have a tire blowout, you should:",
+        "options": [
+            "Brake hard immediately.",
+            "Take your foot off the gas and steer straight.",
+            "Speed up to maintain control.",
+            "Turn the steering wheel sharply."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Take your foot off the gas, grip the wheel firmly, and steer straight. Brake gently once you have control. Don't brake hard or steer sharply."
+    },
+    {
+        "id": 34,
+        "question": "When parking downhill with a curb, you should:",
+        "options": [
+            "Turn wheels toward the curb.",
+            "Turn wheels away from the curb.",
+            "Leave wheels straight.",
+            "Apply parking brake only."
+        ],
+        "correctAnswer": 0,
+        "explanation": "When parking downhill, turn your wheels toward the curb. If the vehicle rolls, it will roll into the curb and stop."
+    },
+    {
+        "id": 35,
+        "question": "What does a yield sign mean?",
+        "options": [
+            "Come to a complete stop.",
+            "Slow down, yield to traffic, and proceed when safe.",
+            "Proceed without slowing.",
+            "Stop only if other vehicles are present."
+        ],
+        "correctAnswer": 1,
+        "explanation": "A yield sign means slow down, be ready to stop, and yield the right-of-way to traffic. Proceed when it's safe to do so."
+    },
+    {
+        "id": 36,
+        "question": "When should you use your vehicle's horn?",
+        "options": [
+            "To alert others of danger.",
+            "To express anger at other drivers.",
+            "When passing other vehicles.",
+            "At all intersections."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Use your horn only to warn others of danger or to alert them to your presence when necessary. Don't use it to express frustration."
+    },
+    {
+        "id": 37,
+        "question": "What is the purpose of ABS (Anti-lock Braking System)?",
+        "options": [
+            "To make the vehicle stop faster.",
+            "To prevent wheels from locking during hard braking.",
+            "To reduce brake wear.",
+            "To automatically apply brakes."
+        ],
+        "correctAnswer": 1,
+        "explanation": "ABS prevents wheels from locking during hard braking, allowing you to maintain steering control. Apply firm, steady pressure - don't pump the brakes."
+    },
+    {
+        "id": 38,
+        "question": "When must you signal before changing lanes?",
+        "options": [
+            "Only on highways.",
+            "At least 30 metres before the change.",
+            "Only if other vehicles are present.",
+            "Signaling is optional."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Signal at least 30 metres (100 feet) before changing lanes. This gives other drivers time to react to your intentions."
+    },
+    {
+        "id": 39,
+        "question": "If you miss your exit on a highway, you should:",
+        "options": [
+            "Back up to the exit.",
+            "Make a U-turn.",
+            "Continue to the next exit.",
+            "Stop and check your map."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Continue to the next exit. Never back up, stop, or make a U-turn on a highway - these actions are extremely dangerous and illegal."
+    },
+    {
+        "id": 40,
+        "question": "What should you do when approaching an intersection with a yellow light?",
+        "options": [
+            "Speed up to get through.",
+            "Stop if you can do so safely.",
+            "Always proceed through.",
+            "Slow down and proceed with caution."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Stop if you can do so safely. If you're too close to stop safely, proceed with caution. Never speed up to beat a yellow light."
+    },
+    {
+        "id": 41,
+        "question": "When driving in heavy rain, you should:",
+        "options": [
+            "Increase speed to get through quickly.",
+            "Use cruise control.",
+            "Reduce speed and increase following distance.",
+            "Turn on hazard lights while moving."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Reduce speed and increase following distance in heavy rain. Roads are slippery and visibility is reduced. Don't use cruise control in wet conditions."
+    },
+    {
+        "id": 42,
+        "question": "What does a pedestrian crossover sign look like?",
+        "options": [
+            "Red octagon.",
+            "Yellow diamond with X.",
+            "Blue rectangle with walking figure.",
+            "Yellow with walking figure and X."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Pedestrian crossover signs are yellow with a walking figure and an X. You must stop and yield to pedestrians at these crossings."
+    },
+    {
+        "id": 43,
+        "question": "When two vehicles arrive at an uncontrolled intersection at the same time, which vehicle has the right-of-way?",
+        "options": [
+            "The vehicle on the left.",
+            "The vehicle on the right.",
+            "The larger vehicle.",
+            "The faster vehicle."
+        ],
+        "correctAnswer": 1,
+        "explanation": "The vehicle on the right has the right-of-way. The vehicle on the left must yield."
+    },
+    {
+        "id": 44,
+        "question": "What is the penalty for distracted driving in Ontario?",
+        "options": [
+            "Warning only.",
+            "Fine and demerit points.",
+            "Licence suspension only.",
+            "No penalty for first offense."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Distracted driving results in fines up to $1,000, three demerit points, and possible licence suspension. Penalties are more severe for novice drivers."
+    },
+    {
+        "id": 45,
+        "question": "When should you check your blind spots?",
+        "options": [
+            "Only when changing lanes.",
+            "Before changing lanes, merging, or turning.",
+            "Once per trip.",
+            "Only on highways."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Check blind spots before changing lanes, merging, or turning. Mirrors don't show everything - you must turn your head to check."
+    },
+    {
+        "id": 46,
+        "question": "What does a broken white line on the road mean?",
+        "options": [
+            "No passing allowed.",
+            "Lane changes are permitted.",
+            "Pedestrian crossing ahead.",
+            "Construction zone."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Broken white lines separate lanes of traffic moving in the same direction. You may change lanes when it's safe to do so."
+    },
+    {
+        "id": 47,
+        "question": "When parking parallel to a curb, how far from the curb should your vehicle be?",
+        "options": [
+            "Within 15 centimetres.",
+            "Within 30 centimetres.",
+            "Within 50 centimetres.",
+            "Any distance is acceptable."
+        ],
+        "correctAnswer": 1,
+        "explanation": "When parallel parking, your vehicle should be within 30 centimetres (12 inches) of the curb."
+    },
+    {
+        "id": 48,
+        "question": "What should you do if you encounter a stopped emergency vehicle with flashing lights?",
+        "options": [
+            "Maintain speed and pass quickly.",
+            "Slow down and move over if safe to do so.",
+            "Stop behind the vehicle.",
+            "Use your horn to alert the emergency workers."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Slow down and move over to another lane if safe to do so. This is the 'Move Over' law and protects emergency workers."
+    },
+    {
+        "id": 49,
+        "question": "How long must you hold a G2 licence before taking the full G test?",
+        "options": [
+            "6 months",
+            "8 months",
+            "12 months",
+            "18 months"
+        ],
+        "correctAnswer": 2,
+        "explanation": "You must hold your G2 licence for at least 12 months before you can take the full G road test."
+    },
+    {
+        "id": 50,
+        "question": "When driving in winter conditions, you should:",
+        "options": [
+            "Use cruise control for better control.",
+            "Brake hard to stop quickly.",
+            "Increase following distance and reduce speed.",
+            "Use high beams in snow."
+        ],
+        "correctAnswer": 2,
+        "explanation": "In winter, increase following distance to at least 4 seconds, reduce speed, and brake gently. Don't use cruise control on slippery roads."
+    },
+    {
+        "id": 51,
+        "question": "What does an HOV lane sign indicate?",
+        "options": [
+            "High-speed vehicles only.",
+            "Vehicles with multiple occupants only.",
+            "Hybrid vehicles only.",
+            "Emergency vehicles only."
+        ],
+        "correctAnswer": 1,
+        "explanation": "HOV (High-Occupancy Vehicle) lanes are reserved for vehicles with a specified minimum number of occupants, usually 2 or 3 people."
+    },
+    {
+        "id": 52,
+        "question": "When must you dim your high beam headlights?",
+        "options": [
+            "Within 150 metres of oncoming traffic.",
+            "Within 300 metres of oncoming traffic.",
+            "Only in cities.",
+            "Never required to dim."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Dim your high beams within 150 metres of oncoming traffic and within 60 metres when following another vehicle."
+    },
+    {
+        "id": 53,
+        "question": "What is hydroplaning?",
+        "options": [
+            "Driving through deep water.",
+            "When tires lose contact with the road due to water.",
+            "A type of brake failure.",
+            "Skidding on ice."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hydroplaning occurs when your tires lose contact with the road surface due to a layer of water. Slow down in wet conditions to prevent this."
+    },
+    {
+        "id": 54,
+        "question": "When entering a roundabout, you must:",
+        "options": [
+            "Speed up to merge quickly.",
+            "Yield to traffic already in the roundabout.",
+            "Stop and wait for all traffic to clear.",
+            "Sound your horn."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yield to traffic already in the roundabout. Enter when there's a safe gap and travel counter-clockwise around the center island."
+    },
+    {
+        "id": 55,
+        "question": "What is the maximum number of passengers a G2 driver under 20 can carry in the first 6 months?",
+        "options": [
+            "No limit.",
+            "One passenger aged 19 or under.",
+            "Two passengers aged 19 or under.",
+            "Three passengers aged 19 or under."
+        ],
+        "correctAnswer": 1,
+        "explanation": "G2 drivers aged 19 or under can carry only one passenger aged 19 or under in the first 6 months (unless accompanied by a full G licence holder)."
+    }
+]
